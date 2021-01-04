@@ -99,7 +99,7 @@
         {
          "columns":16,
          "firstgid":129,
-         "image":"tilesets\/bigpipes-motors.png",
+         "image":"blob\/master\/tilesets\/bigpipes-motors.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -112,7 +112,7 @@
         {
          "columns":8,
          "firstgid":385,
-         "image":"tilesets\/ground-house.png",
+         "image":"blob\/master\/tilesets\/ground-house.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
