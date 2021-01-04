@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/interstices.ouvton.org"
+                 "value":"https:\/\/interstices.ouvaton.org"
                 }],
          "type":"tilelayer",
          "visible":true,
