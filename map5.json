@@ -71,7 +71,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/TILES\/CyberPop RPG Maker VXAce\/Mid-TownA5.png",
+         "image":"Mid-TownA5.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
@@ -84,7 +84,7 @@
         {
          "columns":16,
          "firstgid":129,
-         "image":"..\/TILES\/CyberPop RPG Maker VXAce\/Mid-TownC.png",
+         "image":"Mid-TownC.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -97,7 +97,7 @@
         {
          "columns":16,
          "firstgid":385,
-         "image":"..\/TILES\/CyberPop RPG Maker VXAce\/Low-TownB.png",
+         "image":"Low-TownB.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
