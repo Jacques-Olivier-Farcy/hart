@@ -61,7 +61,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/perdu.com"
+                 "value":"https:\/\/wbo.ophir.dev/boards/anonymous"
                 }],
          "type":"tilelayer",
          "visible":true,
