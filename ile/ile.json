@@ -79,7 +79,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/github.com\/Jacques-Olivier-Farcy\/hart\/blob\/master\/ile\/music\/51149__rutgermuller__footsteps-wooden-stairs-squeaking-1.wav?raw=true"
+                 "value":"https:\/\/github.com\/Jacques-Olivier-Farcy\/hart\/blob\/master\/ile\/music\/51149__rutgermuller__footsteps-wooden-stairs-squeaking-1.ogg?raw=true"
                 }],
          "type":"tilelayer",
          "visible":true,
