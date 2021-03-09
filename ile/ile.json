@@ -147,6 +147,12 @@
          "id":47,
          "name":"son5-prairie-oiseaux",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudioLoop",
+                 "type":"string",
+                 "value":"https:\/\/github.com\/Jacques-Olivier-Farcy\/hart\/blob\/master\/ile\/music\/528661__taavhaap__relaxing-forest-birds-chirping-in-the-north-woods-part1.ogg?raw=true"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
