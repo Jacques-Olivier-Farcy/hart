@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/start.json#camp-tente"
+                 "value":"\/ile\/start.json#camp-tente"
                 }],
          "type":"tilelayer",
          "visible":true,
