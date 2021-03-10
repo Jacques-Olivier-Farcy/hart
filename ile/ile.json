@@ -680,6 +680,12 @@
  "nextlayerid":56,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"exitUrl",
+         "type":"string",
+         "value":"\/cyber\/cyber.json"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
