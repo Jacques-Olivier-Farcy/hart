@@ -242,11 +242,11 @@
         {
          "columns":13,
          "firstgid":1570,
-         "image":"tilesets\/CyberPop_FloatBot - 32x32.png",
+         "image":"tilesets\/CyberPop_FloatBot-32x32.png",
          "imageheight":480,
          "imagewidth":432,
          "margin":0,
-         "name":"CyberPop_FloatBot - 32x32",
+         "name":"CyberPop_FloatBot-32x32",
          "spacing":0,
          "tilecount":195,
          "tileheight":32,
